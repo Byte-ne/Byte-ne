@@ -28,12 +28,7 @@
 
 ### 📊 System Diagnostics (Stats)
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Byte-ne&show_icons=true&theme=neon&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byte-ne&layout=compact&theme=neon&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Byte-ne&theme=dracula&hide_border=true&area=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Byte-ne&theme=tokyonight&hide_border=true" alt="Coding Streak" />
 </p>
 
 ---
