@@ -1,7 +1,7 @@
 # 👨‍💻 Hi, I'm Tanay Mishra (Ren)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Tanay%20Mishra&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Tanay%20Mishra&fontSize=70&animation=fadeIn" alt="Header" />
 </p>
 
 ### 🚀 About Me
@@ -26,16 +26,20 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Byte-ne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byte-ne&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Byte-ne&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byte-ne&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Byte-ne&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
 ### 🔗 Let's Connect
 <p align="left">
-<a href="https://tinyurl.com/tanaysportfolio" target="blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-<a href="https://github.com/Byte-ne" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://tinyurl.com/tanaysportfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white" /></a>
+<a href="https://github.com/Byte-ne" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 > **Need help with CS or a code review?** I'm always happy to assist the community. Feel free to reach out!
