@@ -25,9 +25,7 @@
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  ![ain't it a beaut](assets/badge.svg)
-</p>
+![ain't it a beaut](assets/badge.svg)
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Byte-ne&theme=react-dark&hide_border=true" />
