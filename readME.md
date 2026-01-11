@@ -19,6 +19,7 @@
 ---
 
 ### 🐍 My Contribution Snake
+**My Live Contributions**
 <p align="center">
   <img src="https://raw.githubusercontent.com/Byte-ne/Byte-ne/output/github-snake-dark.svg" alt="Snake Game" width="100%" />
 </p>
