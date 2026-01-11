@@ -20,8 +20,7 @@
 
 ### 🐍 My Contribution Snake
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Byte-ne&repo=Byte-ne&theme=tokyonight" alt="Snake" width="100%" />
-  <img src="https://raw.githubusercontent.com/Byte-ne/Byte-ne/output/github-contribution-grid-snake.svg" alt="snake game" />
+  <img src="https://raw.githubusercontent.com/Byte-ne/Byte-ne/output/github-snake-dark.svg" alt="Snake Game" width="100%" />
 </p>
 
 ---
