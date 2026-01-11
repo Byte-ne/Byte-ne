@@ -61,5 +61,5 @@
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0e75b6&height=20&section=footer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Byte-ne&theme=tokyonight&hide_border=true" alt="Coding Streak" />
 </p>
