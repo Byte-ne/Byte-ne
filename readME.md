@@ -42,15 +42,6 @@
 
 ---
 
-### 📊 GitHub Activity
-![ain't it a beaut](assets/badge.svg)
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Byte-ne&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ### 🔗 Let's Connect
 <p align="left">
 <a href="https://tinyurl.com/tanaysportfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white" /></a>
