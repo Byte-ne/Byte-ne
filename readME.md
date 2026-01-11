@@ -1,14 +1,32 @@
-# 👨‍💻 Hi, I'm Tanay Mishra (Ren)
+# 👨‍💻 Tanay Mishra (Ren)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=CS+Major+at+14;Web+Developer;Calm+Logic+%2B+Witty+Mind;Building+Clean+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=CS+Major+at+14;Full-stack+Web+Dev;Calm+Logic+%2B+Witty+Mind;Building+Clean+Software" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Byte-ne&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+</p>
+
+---
+
 ### 🚀 About Me
-- 🎓 **CS Major at 14** | Passionate Web Developer & Software Engineer.
-- 👓 **Persona:** A calm, logic-driven coder with a funnyminded twist.
-- 💡 **Mission:** Building clean, scalable software and helping others master CS.
-- 🌱 **Currently:** Deep diving into Advanced Algorithms and Full-stack Architecture.
+- 🎓 **CS Major at 14** | Specialized in Web Dev & Software Architecture.
+- 👓 **Persona:** I wear glasses and code with a calm, focused mindset.
+- 💡 **Mission:** Solving complex problems through clean syntax.
+- 🌱 **Currently:** Working on multiple software tools and exploring AI.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Byte-ne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Byte-ne&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Byte-ne&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
