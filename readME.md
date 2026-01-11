@@ -1,7 +1,7 @@
 # 👨‍💻 Hi, I'm Tanay Mishra (Ren)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Tanay%20Mishra&fontSize=70&animation=fadeIn" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=CS+Major+at+14;Web+Developer;Calm+Logic+%2B+Witty+Mind;Building+Clean+Software" alt="Typing SVG" />
 </p>
 
 ### 🚀 About Me
@@ -24,11 +24,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Byte-ne&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byte-ne&layout=compact&theme=radical&hide_border=true" />
-</p>
+### 📊 GitHub Activity
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Byte-ne&theme=react-dark&hide_border=true" />
