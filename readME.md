@@ -1,51 +1,66 @@
 # 👨‍💻 Tanay Mishra (Ren)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=CS+Major+at+14;Full-stack+Web+Dev;Calm+Logic+%2B+Witty+Mind;Building+Clean+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=CS+Major+at+14;Full-stack+Web+Developer;Calm+Logic+%2B+Witty+Mind;Building+the+Future+of+Software" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Byte-ne&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Byte-ne&label=SYSTEM+ACCESSES&color=0e75b6&style=for-the-badge" alt="Visitor Count" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 **CS Major at 14** | Specialized in Web Dev & Software Architecture.
-- 👓 **Persona:** I wear glasses and code with a calm, focused mindset.
-- 💡 **Mission:** Solving complex problems through clean syntax.
-- 🌱 **Currently:** Working on multiple software tools and exploring AI.
+### 🚀 The Mission Control
+- 🎓 **Identity:** 14-year-old CS Major pushing the boundaries of software.
+- 👓 **Setup:** Glasses on, coffee ready, terminal open.
+- 💡 **Philosophy:** If it can be automated, it should be. 
+- 🤝 **Community:** I’m here to help! Ask me anything about CS, Web Dev, or Logic.
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 My Contribution Snake
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Byte-ne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Byte-ne&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Byte-ne&repo=Byte-ne&theme=tokyonight" alt="Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Byte-ne/Byte-ne/output/github-contribution-grid-snake.svg" alt="snake game" />
+</p>
+
+---
+
+### 📊 System Diagnostics (Stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Byte-ne&show_icons=true&theme=neon&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byte-ne&layout=compact&theme=neon&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Byte-ne&theme=react-dark&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Byte-ne&theme=dracula&hide_border=true&area=true" />
 </p>
 
 ---
 
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+### 🛠 Tech Arsenal
+| Weaponry | Tools of Choice |
+| :--- | :--- |
+| **Languages** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Py](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Web Tech** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
+
+---
+
+### 🧠 Random Dev Wisdom
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 </p>
 
 ---
 
-### 🔗 Let's Connect
-<p align="left">
-<a href="https://tinyurl.com/tanaysportfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white" /></a>
-<a href="https://github.com/Byte-ne" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+### 🔗 Initializing Connection
+<p align="center">
+<a href="https://tinyurl.com/tanaysportfolio" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+<a href="https://github.com/Byte-ne" target="_blank"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-> **Need help with CS or a code review?** I'm always happy to assist the community. Feel free to reach out!
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0e75b6&height=20&section=footer" />
+</p>
