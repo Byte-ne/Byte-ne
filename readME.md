@@ -26,6 +26,11 @@
 
 ---
 
+### 🛡️ Verified Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,tailwind,html,css,git,linux,vscode,docker" />
+</p>
+
 ### 📊 System Diagnostics (Stats)
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Byte-ne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
