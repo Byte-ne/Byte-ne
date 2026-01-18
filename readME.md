@@ -1,4 +1,5 @@
 # 👨‍💻 Tanay Mishra (Ren)
+[My Portfolio](tinyurl.com/tanaysportfolio)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=CS+Major+at+14;Full-stack+Web+Developer;Calm+Logic+%2B+Witty+Mind;Building+the+Future+of+Software" alt="Typing SVG" />
