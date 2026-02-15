@@ -29,17 +29,27 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 
 ---
 
-### 🚀 Active Missions
-* 🔭 **Working on:** Refining my personal portfolio and building open-source automation tools.
-* 🌱 **Learning:** Advanced GoLang and deep-diving into Kubernetes.
-* 💬 **Ask me about:** Full-stack development, why Linux is superior, or the logic behind my latest project.
+### 📂 Directory: /home/ren/featured_work
 
----
+#### 🎓 [EduWay](https://github.com/Byte-ne/EduWay)
+> **Status:** `STABLE` | **Type:** `Web App`
+* An educational platform designed to enhance learning experiences with interactive tools and resources for students.
+* *Stack:* ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Interactive](https://img.shields.io/badge/-Interactive-blue?style=flat-square)
 
-### 🏆 Featured Projects
-* **[Project Alpha](https://github.com/Byte-ne/project-alpha):** A high-performance automation engine built with Node.js and Docker.
-* **[Personal Portfolio](https://tinyurl.com/tanaysportfolio):** My digital headquarters where I showcase my journey and experiments.
-* **[The Script Vault](https://github.com/Byte-ne/scripts):** A collection of automation scripts designed to save me hours of manual work.
+#### ♻️ [EcoWaste](https://github.com/Byte-ne/EcoWaste)
+> **Status:** `STABLE` | **Type:** `Sustainability`
+* A waste management application focused on environmental sustainability and efficient waste disposal solutions.
+* *Stack:* ![Management](https://img.shields.io/badge/-Management-green?style=flat-square) ![Sustainability](https://img.shields.io/badge/-Environment-4CAF50?style=flat-square)
+
+#### 🤖 [ByteAI](https://github.com/Byte-ne/ByteAI)
+> **Status:** `IN_DEVELOPMENT` | **Type:** `AI/ML`
+* An AI-powered application exploring machine learning and intelligent automation solutions.
+* *Stack:* ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Automation](https://img.shields.io/badge/-Automation-orange?style=flat-square)
+
+#### 🖥️ [DeskOS](https://github.com/Byte-ne/DeskOS)
+> **Status:** `ARCHITECTING` | **Type:** `Low-level`
+* A custom operating system project exploring low-level programming and system architecture.
+* *Stack:* ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Systems](https://img.shields.io/badge/-Systems-8E44AD?style=flat-square)
 
 ---
 
@@ -60,5 +70,5 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 <p align="center">
 <a href="https://tinyurl.com/tanaysportfolio" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
 <a href="https://github.com/Byte-ne" target="_blank"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:kilobyte136@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
