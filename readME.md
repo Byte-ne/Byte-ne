@@ -15,6 +15,10 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 * **Current Focus:** Mastering the art of scalable backend systems.
 * **Superpower:** Finding the one missing semicolon in 500 lines of code.
 * **Philosophy:** Clean code is a love letter to your future self.
+* **Non-Technical Subprocesses:**
+    * 🍳 **Cooking:** Applying the same precision to recipes as I do to algorithms.
+    * 🎮 **Gaming:** Currently maintaining a high win-rate in virtual worlds.
+    * 🏸 **Badminton:** Keeping my real-world FPS (Frames Per Smash) high.
 
 ---
 
