@@ -64,9 +64,11 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 </p>
 
 **The Contribution Snake**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Byte-ne/Byte-ne/output/github-snake-dark.svg" alt="Snake Game" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Byte-ne/Byte-ne/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Byte-ne/Byte-ne/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Byte-ne/Byte-ne/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
