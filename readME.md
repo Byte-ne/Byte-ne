@@ -37,15 +37,21 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 
 <table>
 <tr>
+
 <td align="center" width="50%">
 
 <a href="https://github.com/Byte-ne/EduWay">
-  <img src="assets/eduwey.gif" width="100%" />
+  <img src="assets/eduway.gif" width="100%" />
 </a>
 
 <br><br>
 
-<b>🎓 EduWay</b><br><br>
+<h3>
+  <a href="https://github.com/Byte-ne/EduWay">EduWay</a>
+</h3>
+<sub>Interactive Learning Platform</sub>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/STATUS-STABLE-2ea44f?style=for-the-badge" />
 <img src="https://img.shields.io/badge/TYPE-WEB_APP-0366d6?style=for-the-badge" />
@@ -62,7 +68,12 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 
 <br><br>
 
-<b>♻️ EcoWaste</b><br><br>
+<h3>
+  <a href="https://github.com/Byte-ne/EcoWaste">EcoWaste</a>
+</h3>
+<sub>Sustainable Waste Management System</sub>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/STATUS-STABLE-2ea44f?style=for-the-badge" />
 <img src="https://img.shields.io/badge/TYPE-SUSTAINABILITY-28a745?style=for-the-badge" />
@@ -70,9 +81,11 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 <img src="https://img.shields.io/badge/STACK-Management-4CAF50?style=flat-square" />
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" width="50%">
 
 <a href="https://github.com/Byte-ne/ByteAI">
@@ -81,7 +94,12 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 
 <br><br>
 
-<b>🤖 ByteAI</b><br><br>
+<h3>
+  <a href="https://github.com/Byte-ne/ByteAI">ByteAI</a>
+</h3>
+<sub>Machine Learning & Intelligent Automation</sub>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-f39c12?style=for-the-badge" />
 <img src="https://img.shields.io/badge/TYPE-AI%20%2F%20ML-6f42c1?style=for-the-badge" />
@@ -92,6 +110,7 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 
 <td align="center" width="50%">
 </td>
+
 </tr>
 </table>
 
