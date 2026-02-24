@@ -20,6 +20,10 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
     * 🎮 **Gaming:** Currently maintaining a high win-rate in virtual worlds.
     * 🏸 **Badminton:** Keeping my real-world FPS (Frames Per Smash) high.
 
+<p align="center">
+  <img src="assets/banner.png" width="100%" />
+</p>
+
 ---
 
 ### 🛠 Tech Arsenal (Verified Technologies)
@@ -123,9 +127,6 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 </p>
 
 ---
-<p align="center">
-  <img src="assets/banner.png" width="100%" />
-</p>
 
 ### 🔗 Let's Sync
 
