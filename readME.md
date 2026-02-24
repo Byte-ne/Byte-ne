@@ -35,29 +35,57 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 
 ### 📂 Directory: `/home/ren/featured_work`
 
-<p align="center">
-  <a href="https://github.com/Byte-ne/EduWay">
-    <img src="assets/eduwey.gif" width="30%" />
-  </a>
-  <a href="https://github.com/Byte-ne/EcoWaste">
-    <img src="assets/ecowaste.gif" width="30%" />
-  </a>
-  <a href="https://github.com/Byte-ne/ByteAI">
-    <img src="assets/byteai.gif" width="30%" />
-  </a>
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<p align="center">
-  <b><a href="https://github.com/Byte-ne/EduWay">🎓 EduWay</a></b><br>
-  🟢 <b>STABLE</b> • Web App • React
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b><a href="https://github.com/Byte-ne/EcoWaste">♻️ EcoWaste</a></b><br>
-  🟢 <b>STABLE</b> • Sustainability • Management
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b><a href="https://github.com/Byte-ne/ByteAI">🤖 ByteAI</a></b><br>
-  🟠 <b>IN_DEVELOPMENT</b> • AI / ML • Python
-</p> 
+<a href="https://github.com/Byte-ne/EduWay">
+  <img src="assets/eduwey.gif" width="100%" />
+</a>
 
+<br><br>
+
+<b>🎓 EduWay</b><br>
+🟢 <b>STABLE</b> • Web App<br>
+React • Interactive
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://github.com/Byte-ne/EcoWaste">
+  <img src="assets/ecowaste.gif" width="100%" />
+</a>
+
+<br><br>
+
+<b>♻️ EcoWaste</b><br>
+🟢 <b>STABLE</b> • Sustainability<br>
+Management • Environment
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+<a href="https://github.com/Byte-ne/ByteAI">
+  <img src="assets/byteai.gif" width="100%" />
+</a>
+
+<br><br>
+
+<b>🤖 ByteAI</b><br>
+🟠 <b>IN_DEVELOPMENT</b> • AI / ML<br>
+Python • Automation
+
+</td>
+
+<td align="center" width="50%">
+<!-- Empty cell for balance or future project -->
+</td>
+</tr>
+</table>
 ---
 
 ### 📊 Telemetry & System Diagnostics
