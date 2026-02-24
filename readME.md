@@ -123,10 +123,32 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 </p>
 
 ---
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 
 ### 🔗 Let's Sync
+
 <p align="center">
-<a href="https://tinyurl.com/tanaysportfolio" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-<a href="https://github.com/Byte-ne" target="_blank"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:kilobyte136@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/tanay-mishra-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/real.tanay">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://reddit.com/user/Loose_Count_6785">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+
+<a href="mailto:kilobyte136@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://tinyurl.com/tanaysportfolio">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </p>
