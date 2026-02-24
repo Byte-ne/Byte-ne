@@ -33,27 +33,35 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 
 ---
 
-### 📂 Directory: /home/ren/featured_work
+### 📂 Directory: `/home/ren/featured_work`
+
+<p align="center">
+  <a href="https://github.com/Byte-ne/EduWay">
+    <img src="assets/eduway.gif" width="31%" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Byte-ne/EcoWaste">
+    <img src="assets/ecowaste.gif" width="31%" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Byte-ne/ByteAI">
+    <img src="assets/byteai.gif" width="31%" />
+  </a>
+</p>
+
+---
 
 #### 🎓 [EduWay](https://github.com/Byte-ne/EduWay)
-> **Status:** `STABLE` | **Type:** `Web App`
-* An educational platform designed to enhance learning experiences with interactive tools and resources for students.
-* *Stack:* ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Interactive](https://img.shields.io/badge/-Interactive-blue?style=flat-square)
+> 🟢 **STABLE** | 🌐 Web App  
+> ⚛️ React • Interactive Learning  
 
 #### ♻️ [EcoWaste](https://github.com/Byte-ne/EcoWaste)
-> **Status:** `STABLE` | **Type:** `Sustainability`
-* A waste management application focused on environmental sustainability and efficient waste disposal solutions.
-* *Stack:* ![Management](https://img.shields.io/badge/-Management-green?style=flat-square) ![Sustainability](https://img.shields.io/badge/-Environment-4CAF50?style=flat-square)
+> 🟢 **STABLE** | 🌱 Sustainability  
+> ♻️ Management • Environment  
 
 #### 🤖 [ByteAI](https://github.com/Byte-ne/ByteAI)
-> **Status:** `IN_DEVELOPMENT` | **Type:** `AI/ML`
-* An AI-powered application exploring machine learning and intelligent automation solutions.
-* *Stack:* ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Automation](https://img.shields.io/badge/-Automation-orange?style=flat-square)
-
-#### 🖥️ [DeskOS](https://github.com/Byte-ne/DeskOS)
-> **Status:** `ARCHITECTING` | **Type:** `Low-level`
-* A custom operating system project exploring low-level programming and system architecture.
-* *Stack:* ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Systems](https://img.shields.io/badge/-Systems-8E44AD?style=flat-square)
+> 🟠 **IN_DEVELOPMENT** | 🧠 AI / ML  
+> 🐍 Python • Automation  
 
 ---
 
