@@ -37,31 +37,26 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 
 <p align="center">
   <a href="https://github.com/Byte-ne/EduWay">
-    <img src="assets/eduway.gif" width="31%" />
+    <img src="assets/eduwey.gif" width="30%" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/Byte-ne/EcoWaste">
-    <img src="assets/ecowaste.gif" width="31%" />
+    <img src="assets/ecowaste.gif" width="30%" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/Byte-ne/ByteAI">
-    <img src="assets/byteai.gif" width="31%" />
+    <img src="assets/byteai.gif" width="30%" />
   </a>
 </p>
 
----
-
-#### 🎓 [EduWay](https://github.com/Byte-ne/EduWay)
-> 🟢 **STABLE** | 🌐 Web App  
-> ⚛️ React • Interactive Learning  
-
-#### ♻️ [EcoWaste](https://github.com/Byte-ne/EcoWaste)
-> 🟢 **STABLE** | 🌱 Sustainability  
-> ♻️ Management • Environment  
-
-#### 🤖 [ByteAI](https://github.com/Byte-ne/ByteAI)
-> 🟠 **IN_DEVELOPMENT** | 🧠 AI / ML  
-> 🐍 Python • Automation  
+<p align="center">
+  <b><a href="https://github.com/Byte-ne/EduWay">🎓 EduWay</a></b><br>
+  🟢 <b>STABLE</b> • Web App • React
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b><a href="https://github.com/Byte-ne/EcoWaste">♻️ EcoWaste</a></b><br>
+  🟢 <b>STABLE</b> • Sustainability • Management
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b><a href="https://github.com/Byte-ne/ByteAI">🤖 ByteAI</a></b><br>
+  🟠 <b>IN_DEVELOPMENT</b> • AI / ML • Python
+</p> 
 
 ---
 
