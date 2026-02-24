@@ -40,14 +40,17 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 <td align="center" width="50%">
 
 <a href="https://github.com/Byte-ne/EduWay">
-  <img src="assets/eduway.gif" width="100%" />
+  <img src="assets/eduwey.gif" width="100%" />
 </a>
 
 <br><br>
 
-<b>🎓 EduWay</b><br>
-🟢 <b>STABLE</b> • Web App<br>
-React • Interactive
+<b>🎓 EduWay</b><br><br>
+
+<img src="https://img.shields.io/badge/STATUS-STABLE-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TYPE-WEB_APP-0366d6?style=for-the-badge" />
+<br>
+<img src="https://img.shields.io/badge/STACK-React-61DAFB?style=flat-square" />
 
 </td>
 
@@ -59,9 +62,12 @@ React • Interactive
 
 <br><br>
 
-<b>♻️ EcoWaste</b><br>
-🟢 <b>STABLE</b> • Sustainability<br>
-Management • Environment
+<b>♻️ EcoWaste</b><br><br>
+
+<img src="https://img.shields.io/badge/STATUS-STABLE-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TYPE-SUSTAINABILITY-28a745?style=for-the-badge" />
+<br>
+<img src="https://img.shields.io/badge/STACK-Management-4CAF50?style=flat-square" />
 
 </td>
 </tr>
@@ -75,17 +81,20 @@ Management • Environment
 
 <br><br>
 
-<b>🤖 ByteAI</b><br>
-🟠 <b>IN_DEVELOPMENT</b> • AI / ML<br>
-Python • Automation
+<b>🤖 ByteAI</b><br><br>
+
+<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-f39c12?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TYPE-AI%20%2F%20ML-6f42c1?style=for-the-badge" />
+<br>
+<img src="https://img.shields.io/badge/STACK-Python-3776AB?style=flat-square" />
 
 </td>
 
 <td align="center" width="50%">
-<!-- Empty cell for balance or future project -->
 </td>
 </tr>
 </table>
+
 ---
 
 ### 📊 Telemetry & System Diagnostics
