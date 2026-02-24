@@ -40,7 +40,7 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 <td align="center" width="50%">
 
 <a href="https://github.com/Byte-ne/EduWay">
-  <img src="assets/eduwey.gif" width="100%" />
+  <img src="assets/eduway.gif" width="100%" />
 </a>
 
 <br><br>
