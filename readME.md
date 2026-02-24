@@ -124,7 +124,7 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 
 ---
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="assets/banner.png" width="100%" />
 </p>
 
 ### 🔗 Let's Sync
