@@ -1,134 +1,10 @@
-# 📡 I'm Tanay (Ren) 
-### 14-year-old CS Major | Full-Stack Architect | Automation Enthusiast
-
-> "If a task takes more than two minutes and has to be done twice, it’s getting a script." 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3670A0&center=true&vCenter=true&width=550&lines=Building+the+Future+of+Software;Logic-Driven+Development;Terminal-First+Workflow;Coffee.code(repeat=true)" alt="Typing SVG" />
-</p>
-
----
-
-### 📂 User Profile: /dev/tanay
-I’m a 14-year-old Computer Science major who traded a normal sleep schedule for the ability to build full-stack applications. My philosophy is simple: **Calm Logic + Witty Mind.** I believe software should be efficient, scalable, and—most importantly—automated. When I'm not debugging, I'm likely refining my Linux setup or exploring the boundaries of system architecture.
-
-* **Current Focus:** Mastering the art of scalable backend systems.
-* **Superpower:** Finding the one missing semicolon in 500 lines of code.
-* **Philosophy:** Clean code is a love letter to your future self.
-* **Non-Technical Subprocesses:**
-    * 🍳 **Cooking:** Applying the same precision to recipes as I do to algorithms.
-    * 🎮 **Gaming:** Currently maintaining a high win-rate in virtual worlds.
-    * 🏸 **Badminton:** Keeping my real-world FPS (Frames Per Smash) high.
+<center>
 
 <p align="center">
   <img src="assets/banner.png" width="100%" />
 </p>
 
----
-
-### 🛠 Tech Arsenal (Verified Technologies)
-
-| Category | Tools of Choice |
-| :--- | :--- |
-| **Languages** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Py](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) |
-| **Backend/Cloud** | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) |
-
----
-
-### 📂 Directory: `/home/ren/featured_work`
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-<a href="https://github.com/Byte-ne/EduWay">
-  <img src="assets/eduway.gif" width="100%" />
-</a>
-
-<br><br>
-
-<h3>
-  <a href="https://github.com/Byte-ne/EduWay">EduWay</a>
-</h3>
-<sub>Interactive Learning Platform</sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-STABLE-2ea44f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TYPE-WEB_APP-0366d6?style=for-the-badge" />
-<br>
-<img src="https://img.shields.io/badge/STACK-React-61DAFB?style=flat-square" />
-
-</td>
-
-<td align="center" width="50%">
-
-<a href="https://github.com/Byte-ne/EcoWaste">
-  <img src="assets/ecowaste.gif" width="100%" />
-</a>
-
-<br><br>
-
-<h3>
-  <a href="https://github.com/Byte-ne/EcoWaste">EcoWaste</a>
-</h3>
-<sub>Sustainable Waste Management System</sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-STABLE-2ea44f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TYPE-SUSTAINABILITY-28a745?style=for-the-badge" />
-<br>
-<img src="https://img.shields.io/badge/STACK-Management-4CAF50?style=flat-square" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="50%">
-
-<a href="https://github.com/Byte-ne/ByteAI">
-  <img src="assets/byteai.gif" width="100%" />
-</a>
-
-<br><br>
-
-<h3>
-  <a href="https://github.com/Byte-ne/ByteAI">ByteAI</a>
-</h3>
-<sub>Machine Learning & Intelligent Automation</sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-f39c12?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TYPE-AI%20%2F%20ML-6f42c1?style=for-the-badge" />
-<br>
-<img src="https://img.shields.io/badge/STACK-Python-3776AB?style=flat-square" />
-
-</td>
-
-<td align="center" width="50%">
-</td>
-
-</tr>
-</table>
-
----
-
-### 📊 Telemetry & System Diagnostics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Byte-ne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Byte-ne&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🔗 Let's Sync
+<h1 align = "center">👋Hi, I'm Tanay </h1>
 
 <p align="center">
 
@@ -152,5 +28,91 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
+</p>
+
+> I am a 14-year-old software and web developer, along with an interest in competitive programming.
+Apart from these, I love to cook, play badminton & enjoy video Games (my favourite is Minecraft, btw)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3670A0&center=true&vCenter=true&width=550&lines=Web+Developer;Competitive+Programmer;Software+Developer;AI/ML+Enthusiast" alt="Typing SVG" />
+</p>
+
+</center>
+
+---
+
+### Technologies
+
+| Category | Tools of Choice |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
+| **Data & Tools** | ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white) |
+| **Deploy** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
+
+---
+
+### Highlighted Projects
+
+<br>
+
+[EduWay](https://github.com/Byte-ne/EduWay) -
+Interactive learning platform with modular courses, progress tracking, and a responsive interface. Built with React, Node.js, and MongoDB.
+
+<br>
+
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=fff)
+
+<br>
+
+<a href="https://github.com/Byte-ne/EduWay">
+  <img src="assets/eduway.gif" alt="EduWay demo" width="100%" />
+</a>
+
+<br>
+<br>
+
+[EcoWaste](https://github.com/Byte-ne/EcoWaste) – Dashboard for monitoring waste streams and encouraging sustainable decisions. Uses Node.js, Express, and MongoDB.  
+
+<br>
+
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=fff)
+
+<br>
+
+<a href="https://github.com/Byte-ne/EcoWaste">
+  <img src="assets/ecowaste.gif" alt="EcoWaste demo" width="100%" />
+</a>
+
+<br>
+<br>
+
+[ByteAI](https://github.com/Byte-ne/ByteAI) – Applied ML tools and automation scripts for data analysis and experimentation. Implemented in Python with NumPy and Matplotlib.  
+
+<br>
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=fff)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=fff)
+
+<br>
+
+<a href="https://github.com/Byte-ne/ByteAI">
+  <img src="assets/byteai.gif" alt="ByteAI demo" width="100%" />
+</a>
+
+---
+
+### My Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Byte-ne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Byte-ne&layout=compact&theme=tokyonight" />
+
+  ![Quotes](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&size=14)
 </p>
 
