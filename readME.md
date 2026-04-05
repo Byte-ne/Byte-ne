@@ -60,51 +60,26 @@ Apart from these, I love to cook, play badminton & enjoy video Games (my favouri
 [EduWay](https://github.com/Byte-ne/EduWay) -
 Interactive learning platform with modular courses, progress tracking, and a responsive interface. Built with React, Node.js, and MongoDB.
 
-<br>
-
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
   ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=fff)
-
-<br>
-
-<a href="https://github.com/Byte-ne/EduWay">
-  <img src="assets/eduway.gif" alt="EduWay demo" width="100%" />
-</a>
-
-<br>
 <br>
 
 [EcoWaste](https://github.com/Byte-ne/EcoWaste) – Dashboard for monitoring waste streams and encouraging sustainable decisions. Uses Node.js, Express, and MongoDB.  
 
-<br>
-
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
   ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff)
   ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=fff)
-
+  
 <br>
 
-<a href="https://github.com/Byte-ne/EcoWaste">
-  <img src="assets/ecowaste.gif" alt="EcoWaste demo" width="100%" />
-</a>
-
-<br>
-<br>
-
-[ByteAI](https://github.com/Byte-ne/ByteAI) – Applied ML tools and automation scripts for data analysis and experimentation. Implemented in Python with NumPy and Matplotlib.  
-
-<br>
+[ByteAI](https://github.com/Byte-ne/ByteAI) – Applied AI/ML and fine-tuned OLLAMA, an LLM who knows your system. 
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=fff)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=fff)
 
 <br>
-
-<a href="https://github.com/Byte-ne/ByteAI">
-  <img src="assets/byteai.gif" alt="ByteAI demo" width="100%" />
-</a>
 
 ---
 
