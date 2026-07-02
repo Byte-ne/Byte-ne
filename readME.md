@@ -30,12 +30,8 @@
 
 </p>
 
-> I am a 14-year-old software and web developer, along with an interest in competitive programming.
-Apart from these, I love to cook, play badminton & enjoy video Games (my favourite is Minecraft, btw)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3670A0&center=true&vCenter=true&width=550&lines=Web+Developer;Competitive+Programmer;Software+Developer;AI/ML+Enthusiast" alt="Typing SVG" />
-</p>
+> I am a school student interested in coding and software development. I like cooking, badminton and gaming (Minecraft)
+> I live in Mumbai, India. Love technological challenges and building projects.
 
 </center>
 
@@ -53,41 +49,11 @@ Apart from these, I love to cook, play badminton & enjoy video Games (my favouri
 
 ---
 
-### Highlighted Projects
-
-<br>
-
-[EduWay](https://github.com/Byte-ne/EduWay) -
-Interactive learning platform with modular courses, progress tracking, and a responsive interface. Built with React, Node.js, and MongoDB.
-
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=fff)
-<br>
-
-[EcoWaste](https://github.com/Byte-ne/EcoWaste) – Dashboard for monitoring waste streams and encouraging sustainable decisions. Uses Node.js, Express, and MongoDB.  
-
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=fff)
-  
-<br>
-
-[ByteAI](https://github.com/Byte-ne/ByteAI) – Applied AI/ML and fine-tuned OLLAMA, an LLM who knows your system. 
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=fff)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=fff)
-
-<br>
-
----
-
 ### My Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Byte-ne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Byte-ne&layout=compact&theme=tokyonight" />
-
-  ![Quotes](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&size=14)
 </p>
+
+![Quotes](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&size=14)
 
