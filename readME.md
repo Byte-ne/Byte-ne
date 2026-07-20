@@ -1,6 +1,6 @@
-<img src="banner3.png" width="80%" alt="Banner">
+<img src="banner3.png" width="100%" alt="Banner">
 
-# 👋Hi, I'm Tanay
+## 👋Hi, I'm Tanay
 
 ### Technologies
 
@@ -36,8 +36,10 @@
 - [Lessel](https://github.com/Terminay/lessel)
 - [kJudge](https://github.com/Terminay/kJudge)
 - [IPLp](https://github.com/Terminay/IPLp)
-- [Rewire (indev)](https://github.com/Terminay/lessel)
+  
 > Note: All these projects are Open-source and being continuously developed
+
+<b> Kindly STAR all the mentioned Repositories for supporting me in development, and also because it's free of cost and helps people! </b>
 
 ---
 
